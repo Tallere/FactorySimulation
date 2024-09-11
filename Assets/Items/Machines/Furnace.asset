@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 816b6bc2a909282439347433264e76d6, type: 3}
+  m_Name: Furnace
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: 25952a703b007364480dc077d0a6e5d0, type: 3}
+  type: 2
+  stackSize: 20
+  actionType: 2
+  stackable: 1
+  id: 1
+  smeltable: 0
+  name: Furnace
+  description: You can smelt items in this machine
+  machineModel: {fileID: 1087600528923244830, guid: 6fc8efaf6e919224d852f751dd23cf78, type: 3}
+  machineUiPanel: {fileID: 7709373798797713582, guid: 6f9237d225a1c0546b0360c3679fd43d, type: 3}
+  width: 2
+  height: 2
+  fuelSlot: {fileID: 0}
+  smeltableSlot: {fileID: 0}
+  outputSlot: {fileID: 0}
